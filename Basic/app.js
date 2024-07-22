@@ -4,7 +4,7 @@ const app = Vue.createApp({
     data(){
         return {
             title:"The Final",
-            author:"Tarun Shrestha",
+            author:"Tarun Shresthaa",
             age:20,
             showBooks: true,
         }
