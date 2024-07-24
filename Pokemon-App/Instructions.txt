@@ -1,0 +1,3 @@
+Create vue project with Vite.
+Install Router
+Install tailwind ( yarn add -D vue-tailwind )
