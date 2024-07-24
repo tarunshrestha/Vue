@@ -1,7 +1,7 @@
 # Create Vite:
-yarn create vite .
-yarn create vite . --template vue  # with vue
-yarn create vite . --template vue-ts  # with vue and typescript 
+* yarn create vite .
+* yarn create vite . --template vue  # with vue
+* yarn create vite . --template vue-ts  # with vue and typescript 
 
 # Run:
 yarn
