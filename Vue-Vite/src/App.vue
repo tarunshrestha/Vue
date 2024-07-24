@@ -5,10 +5,11 @@
       <li><router-link :to="{name: 'about'}"> About Us </router-link></li>
     </ul>
   </div>
+  
+  <br>
   <router-view/>
 
 </template>
-
 
 <script setup>
 import { RouterView } from 'vue-router';
