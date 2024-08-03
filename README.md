@@ -16,9 +16,9 @@
 # Add Tailwind CSS:
 * npm install -D tailwindcss postcss autoprefixer
 * npx tailwindcss init -p
-Create tailwind.css in the src/assets directory:
-  * @tailwind base;
-  * @tailwind components;
+## Create tailwind.css in the src/assets directory:
+  - @tailwind base;
+  - @tailwind components;
   - @tailwind utilities;
 
 
