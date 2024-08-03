@@ -16,10 +16,14 @@
 # Add Tailwind CSS:
 * npm install -D tailwindcss postcss autoprefixer
 * npx tailwindcss init -p
-* Create tailwind.css in the src/assets directory:
-**   @tailwind base;
-**   @tailwind components;
-**   @tailwind utilities;
+  ## Create tailwind.css in the src/assets directory:
+    - @tailwind base;
+    - @tailwind components;
+    - @tailwind utilities;
+  ## Paste in main.js:
+    - import './assets/tailwind.css'
+  ## Modify content in tailwind.config.js:
+    - content: [ "./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}",]
 
 
 
