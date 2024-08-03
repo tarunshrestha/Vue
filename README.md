@@ -20,6 +20,8 @@
     - @tailwind base;
     - @tailwind components;
     - @tailwind utilities;
+  ## Paste in main.js:
+    - import './assets/tailwind.css'
 
 
 
