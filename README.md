@@ -22,6 +22,8 @@
     - @tailwind utilities;
   ## Paste in main.js:
     - import './assets/tailwind.css'
+  ## Modify content in tailwind.config.js:
+    - content: [ "./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}",]
 
 
 
